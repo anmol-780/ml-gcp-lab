@@ -1,5 +1,4 @@
 # ml-gcp-lab
-# ml-gcp-lab
 # ML API Docker Project
 
 This project is a simple Machine Learning API that runs inside a Docker container.  
