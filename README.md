@@ -9,7 +9,7 @@ It loads a trained model (`model.pkl`) and provides a `/predict` endpoint to mak
 ## 👥 Group Members
 
 - **Anmolpreet Kaur**  
-- **Harinderjit**  
+- **Harinderjeet Singh**  
 - **Gurwinder Kaur**  
 - **Harjoban Singh**
 
